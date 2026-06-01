@@ -1,0 +1,4 @@
+User-Agent: *
+Allow: /
+
+Sitemap: https://muntasirul.github.io/sitemap.xml

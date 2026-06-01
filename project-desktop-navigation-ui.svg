@@ -1,0 +1,24 @@
+<svg width="960" height="540" viewBox="0 0 960 540" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="960" height="540" rx="32" fill="#07111f"/>
+  <rect x="48" y="54" width="864" height="432" rx="28" fill="#0f172a" stroke="#29476f"/>
+  <rect x="82" y="92" width="796" height="54" rx="18" fill="#172554"/>
+  <circle cx="116" cy="119" r="8" fill="#ef4444"/>
+  <circle cx="142" cy="119" r="8" fill="#f59e0b"/>
+  <circle cx="168" cy="119" r="8" fill="#22c55e"/>
+  <rect x="112" y="190" width="196" height="226" rx="22" fill="#111827" stroke="#334155"/>
+  <rect x="348" y="190" width="196" height="226" rx="22" fill="#111827" stroke="#334155"/>
+  <rect x="584" y="190" width="196" height="226" rx="22" fill="#111827" stroke="#334155"/>
+  <g stroke="#60a5fa" stroke-width="12" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M188 286h44"/>
+    <path d="M210 264v44"/>
+    <path d="M430 264l44 44"/>
+    <path d="M474 264l-44 44"/>
+    <path d="M682 310c34 0 58-18 58-44 0-30-22-48-58-48h-32v92h32z"/>
+  </g>
+  <g font-family="Inter, Arial, sans-serif" font-size="18" font-weight="700" fill="#cbd5e1">
+    <text x="158" y="456">Voice Control</text>
+    <text x="392" y="456">Gesture Mode</text>
+    <text x="628" y="456">Automation</text>
+  </g>
+  <text x="110" y="128" fill="#bfdbfe" font-family="Inter, Arial, sans-serif" font-size="18" font-weight="700">Desktop Navigation System</text>
+</svg>

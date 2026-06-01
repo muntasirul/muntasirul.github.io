@@ -1,0 +1,28 @@
+<svg width="960" height="540" viewBox="0 0 960 540" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="960" height="540" rx="32" fill="#07111f"/>
+  <rect x="36" y="36" width="888" height="468" rx="28" fill="#101b2e" stroke="#29476f"/>
+  <g>
+    <circle cx="244" cy="172" r="58" fill="#f8dce3"/>
+    <circle cx="520" cy="172" r="68" fill="#f8dce3"/>
+    <circle cx="712" cy="328" r="74" fill="#f8dce3"/>
+    <circle cx="318" cy="370" r="62" fill="#f8dce3"/>
+  </g>
+  <g stroke-width="5">
+    <rect x="178" y="106" width="132" height="132" rx="18" stroke="#22c55e"/>
+    <rect x="444" y="96" width="152" height="152" rx="18" stroke="#22c55e"/>
+    <rect x="626" y="242" width="172" height="172" rx="18" stroke="#22c55e"/>
+    <rect x="248" y="300" width="140" height="140" rx="18" stroke="#22c55e"/>
+  </g>
+  <g font-family="Inter, Arial, sans-serif" font-weight="700" font-size="18">
+    <rect x="178" y="70" width="172" height="32" rx="16" fill="#22c55e"/>
+    <text x="196" y="92" fill="#052e16">RBC 0.98</text>
+    <rect x="444" y="60" width="182" height="32" rx="16" fill="#22c55e"/>
+    <text x="462" y="82" fill="#052e16">WBC 0.94</text>
+    <rect x="626" y="206" width="202" height="32" rx="16" fill="#22c55e"/>
+    <text x="644" y="228" fill="#052e16">Platelet 0.91</text>
+    <rect x="248" y="264" width="172" height="32" rx="16" fill="#22c55e"/>
+    <text x="266" y="286" fill="#052e16">RBC 0.96</text>
+  </g>
+  <rect x="64" y="450" width="288" height="42" rx="21" fill="#1d4ed8"/>
+  <text x="86" y="477" fill="white" font-family="Inter, Arial, sans-serif" font-size="18" font-weight="700">YOLOv8 Detection Output</text>
+</svg>

@@ -1,0 +1,27 @@
+<svg width="960" height="540" viewBox="0 0 960 540" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="960" height="540" rx="32" fill="#07111f"/>
+  <rect x="32" y="32" width="896" height="476" rx="28" fill="#0f1d33" stroke="#29476f"/>
+  <g opacity="0.92">
+    <circle cx="202" cy="158" r="58" fill="#f7d7df" stroke="#f59ab1" stroke-width="8"/>
+    <circle cx="202" cy="158" r="24" fill="#f09cb0" opacity="0.55"/>
+    <circle cx="354" cy="236" r="72" fill="#f9d9df" stroke="#f59ab1" stroke-width="8"/>
+    <circle cx="354" cy="236" r="30" fill="#f09cb0" opacity="0.55"/>
+    <circle cx="603" cy="156" r="66" fill="#f7d7df" stroke="#f59ab1" stroke-width="8"/>
+    <circle cx="603" cy="156" r="28" fill="#f09cb0" opacity="0.55"/>
+    <circle cx="742" cy="312" r="74" fill="#f9d9df" stroke="#f59ab1" stroke-width="8"/>
+    <circle cx="742" cy="312" r="32" fill="#f09cb0" opacity="0.55"/>
+    <circle cx="242" cy="366" r="64" fill="#f7d7df" stroke="#f59ab1" stroke-width="8"/>
+    <circle cx="242" cy="366" r="26" fill="#f09cb0" opacity="0.55"/>
+    <circle cx="498" cy="384" r="54" fill="#f7d7df" stroke="#f59ab1" stroke-width="8"/>
+    <circle cx="498" cy="384" r="22" fill="#f09cb0" opacity="0.55"/>
+  </g>
+  <g opacity="0.7">
+    <circle cx="96" cy="272" r="5" fill="#93c5fd"/>
+    <circle cx="834" cy="132" r="4" fill="#93c5fd"/>
+    <circle cx="842" cy="422" r="6" fill="#93c5fd"/>
+    <circle cx="461" cy="128" r="4" fill="#93c5fd"/>
+  </g>
+  <rect x="64" y="64" width="260" height="42" rx="21" fill="#1d4ed8" opacity="0.95"/>
+  <text x="86" y="91" fill="white" font-family="Inter, Arial, sans-serif" font-size="18" font-weight="700">Blood Cell Sample</text>
+  <text x="64" y="468" fill="#cbd5e1" font-family="Inter, Arial, sans-serif" font-size="18">Microscopic image preprocessing view</text>
+</svg>
